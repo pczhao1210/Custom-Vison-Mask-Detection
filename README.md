@@ -1,5 +1,7 @@
 ##Instruction##
 
+Prequisition: python 3.7+ / OpenCV 
+
 1. Train your model from [Custom Vision](https://www.customvision.ai/projects);
 
 2. Export you model as Dockerfile
